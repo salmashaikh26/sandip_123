@@ -1,5 +1,5 @@
 # This program prints Hello, world!
 
 print('Hello, world!')
-a=5+6
-print(a)
+b=5+6
+print(b)
